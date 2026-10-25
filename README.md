@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zahir Khan 👋
 
-<!--
-**zahirmakakmayum90-max/zahirmakakmayum90-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student | Aspiring AI & Software Builder
 
-Here are some ideas to get you started:
+I'm a Business Management student in Indonesia exploring how AI and software can solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Exploring multimodal AI and practical innovation
+- 🧠 Interested in AI applications, experimentation, and technology for social impact
+- 🌱 Learning by building, testing, and improving ideas
+- 🤝 Open to connecting with people who enjoy solving real-world problems
+
+### Current Focus
+Learning, prototyping, testing ideas, and building useful software.
+
+### Connect
+- GitHub: [@zahirmakakmayum90-max](https://github.com/zahirmakakmayum90-max)
+
+*I believe the best ideas become valuable when we build, test, and improve them.* 🚀
